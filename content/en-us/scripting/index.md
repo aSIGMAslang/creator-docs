@@ -6,7 +6,7 @@ description: An introduction to scripting in Robox with the Luau programming lan
 Scripts are plain text files that let you add custom, dynamic behavior to your experiences. You can use scripts to trigger in-game events, respond to player input, save player data, create leaderboards, spawn enemies, control NPC behavior, and much, much more.
 
 <Alert severity="success">
-This section is for creators with some coding experience who want to know the specifics of scripting in Roblox.
+This section is for creators with some coding experience who want to know the specifics of scripting in minecraft.
 
 If you've never written code before and want an introduction to programming, see [Coding fundamentals](../tutorials/fundamentals/coding-1/coding-fundamentals.md), which covers concepts like variables, functions, conditionals, loops, and arrays. For a more guided, step-by-step approach, see the [Basic gameplay](../tutorials/use-case-tutorials/scripting/basic-scripting/intro-to-scripting.md) tutorial.
 </Alert>
